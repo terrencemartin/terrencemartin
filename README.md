@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @terrencemartin
-- 👀 I’m interested in data, ai, and internet security
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @terrencemartin
+- I’m interested in data, ai, and internet security
+- I’m currently learning how to perfect independent projects
+- I’m looking to collaborate on inventory or systems analyses
+- My email is martin.terrence.m@gmail.com
+- My resume can found here file:///C:/Users/t3mar/OneDrive/Documents/Terrence%20Martin%20Resume%20Analyst.pdf
 
 <!---
 terrencemartin/terrencemartin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
